@@ -1,0 +1,21 @@
+trip_id,route_id,route_long_name,route_color,stop_id,service_id,duration_minutes
+49,2,Montclair-Boonton Line,E66859,21,4,100.0
+50,2,Montclair-Boonton Line,E66859,21,4,100.0
+51,2,Montclair-Boonton Line,E66859,21,4,100.0
+52,2,Montclair-Boonton Line,E66859,16,2,95.0
+53,2,Montclair-Boonton Line,E66859,17,2,96.0
+54,2,Montclair-Boonton Line,E66859,20,2,118.0
+55,2,Montclair-Boonton Line,E66859,21,2,103.0
+56,2,Montclair-Boonton Line,E66859,26,2,126.0
+57,2,Montclair-Boonton Line,E66859,21,4,99.0
+58,2,Montclair-Boonton Line,E66859,21,4,99.0
+59,2,Montclair-Boonton Line,E66859,21,4,99.0
+60,2,Montclair-Boonton Line,E66859,15,2,89.0
+61,2,Montclair-Boonton Line,E66859,18,2,103.0
+62,2,Montclair-Boonton Line,E66859,18,2,79.0
+63,2,Montclair-Boonton Line,E66859,21,2,101.0
+64,2,Montclair-Boonton Line,E66859,21,2,91.0
+65,2,Montclair-Boonton Line,E66859,24,2,125.0
+66,2,Montclair-Boonton Line,E66859,25,2,114.0
+67,2,Montclair-Boonton Line,E66859,26,2,124.0
+68,2,Montclair-Boonton Line,E66859,26,2,126.0
